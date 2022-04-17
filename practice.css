@@ -1,0 +1,36 @@
+
+
+
+.div{
+    margin: 5px;
+}
+
+.img1{
+    border: 2px solid grey;
+    margin: 10px auto;
+    margin-right: 77px;
+}
+.img2{
+    border: 2px solid grey;
+    margin: 10px grid-auto-columns ;
+    margin-right: 77px;
+}
+.img3{
+    border: 2px solid grey;
+    margin: 10px grid-auto-columns ;
+}
+.img4{
+    border: 2px solid grey;
+    margin: 77px 77px 0px 0px;
+    margin-right: 77px;
+}
+.img5{
+    border: 2px solid grey;
+    margin: 10px grid-auto-columns ;
+   
+}
+.img6{
+    border: 2px solid grey;
+    margin: 10px grid-auto-columns ;
+}
+
